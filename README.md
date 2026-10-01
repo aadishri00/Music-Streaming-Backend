@@ -1,4 +1,4 @@
-# Spotify Clone Backend
+# Music Streaming Backend
 
 A scalable and role-based music streaming backend built using Node.js, Express, and MongoDB. This application allows users to listen to music while only authorized artists can upload and manage content.
 
