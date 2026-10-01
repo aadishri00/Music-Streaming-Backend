@@ -4,6 +4,8 @@ A scalable and role-based music streaming backend built using Node.js, Express, 
 
 ---
 
+Live API — https://music-streaming-backend-w49j.onrender.com/
+
 ## Features
 
 * Stream and access music content
